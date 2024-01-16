@@ -1,0 +1,27 @@
+.img{
+    max-width: 100%;
+}
+.navbar-brand{
+    width: 180px;
+}
+.navbar-nav input {
+    border-radius: 10px;
+    width: 500px;
+    height: 30px;
+}
+.movie-poster{
+    height: 250px;
+} 
+.movie-poster img{
+    object-fit: cover;
+}
+.list-menu li{
+    font-size: 20px;
+    margin: 20px;
+}
+.list-menu{
+    border: 1px solid#504F4F;
+    padding: 10px; 
+    border-radius: 20px; 
+   height: 80%;
+}
